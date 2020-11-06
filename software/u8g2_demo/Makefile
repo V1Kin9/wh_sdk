@@ -39,7 +39,9 @@ C_SRCS := u8g2_demo.c \
 	  csrc/u8x8_d_ssd1309.c \
 	  csrc/u8g2_d_setup.c \
 	  csrc/u8g2_d_memory.c \
+	  csrc/u8g2_port.c
 HEADERS := csrc/u8g2.h \
            csrc/u8x8.h \
+	   csrc/u8g2_port.h
 CFLAGS := 
 LDFLAGS := 
