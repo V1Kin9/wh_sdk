@@ -1,7 +1,7 @@
 #### user change ####
 BOARD ?= LS_Board
-RELEASE ?= WH32_IMC_XTX_2020_02_27
-PROGRAM ?= coremark
+RELEASE ?= WH32_DDR
+PROGRAM ?= uart_test
 HOST_IP := localhost
 
 #### no change ####
